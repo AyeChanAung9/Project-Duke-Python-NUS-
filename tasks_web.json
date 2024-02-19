@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "done": false,
+        "type": "deadline",
+        "title": "Return PEN",
+        "due_time": "Monday",
+        "start_time": "",
+        "end_time": "",
+        "location": null
+    },
+    {
+        "id": 1,
+        "done": true,
+        "type": "event",
+        "title": "Meeting",
+        "due_time": "",
+        "start_time": "2pm",
+        "end_time": "4pm",
+        "location": null
+    },
+    {
+        "id": 2,
+        "done": false,
+        "type": "event",
+        "title": "submission",
+        "due_time": "",
+        "start_time": "27",
+        "end_time": "1",
+        "location": null
+    },
+    {
+        "id": 3,
+        "done": false,
+        "type": "todo",
+        "title": "Do exercise",
+        "due_time": "",
+        "start_time": "",
+        "end_time": "",
+        "location": null
+    },
+    {
+        "id": 4,
+        "done": false,
+        "type": "event",
+        "title": "Presentation",
+        "due_time": "",
+        "start_time": "9am",
+        "end_time": "2pm",
+        "location": ""
+    },
+    {
+        "id": 5,
+        "done": false,
+        "type": "deadline",
+        "title": "Project",
+        "due_time": "OCT 8",
+        "start_time": "",
+        "end_time": "",
+        "location": ""
+    },
+    {
+        "id": 6,
+        "done": true,
+        "type": "todo",
+        "title": "Unit Testings",
+        "due_time": "",
+        "start_time": "",
+        "end_time": "",
+        "location": ""
+    }
+]
